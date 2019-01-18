@@ -19,5 +19,7 @@ socket.on('connection', function(io){
 http.listen(4000, () => {
     console.log("listening on the port 4000");
 })
-/* this is coments and they
-are useless for every ting*/
+
+
+
+"srvr is better than master"
